@@ -1,3 +1,3 @@
-mycloud.com
-samsungcloudsolution.com
+||mycloud.com^
+||samsungcloudsolution.com^
 api.gitkraken.dev
